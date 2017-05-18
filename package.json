@@ -1,5 +1,5 @@
 {
-  "name": "@chronos/newproject",
+  "name": "newproject",
   "version": "1.0.0",
   "description": "test project",
   "main": "index.js",
