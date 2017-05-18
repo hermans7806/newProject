@@ -1,0 +1,22 @@
+{
+  "name": "@chronos/newproject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Herman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermans7806/newProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hermans7806/newProject/issues"
+  },
+  "homepage": "https://github.com/hermans7806/newProject#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
